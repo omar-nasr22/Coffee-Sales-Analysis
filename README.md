@@ -3,6 +3,7 @@
 📈 This project demonstrates a **sales analysis dashboard** built in **Microsoft Excel** using raw coffee sales data.  
 It offers insights into product performance, trends, and best-selling items in a visual, interactive format.
 
+![Dashboard Preview](DASHBOARD.jpg)
 ---
 
 ## 📁 Files Included
